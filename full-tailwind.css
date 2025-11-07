@@ -1,0 +1,28 @@
+/* welcome to the tailwind class 
+
+tailwind is a utility framework that help us to minimize the coding part and prevent us from creating extra css file, we can make our page responsive in the html page itself and it is altogether different than the inline css, because the inline css does not provide us with so much of the option.
+
+
+some properties that are to be used like how we use to make our page flex in css , compare to how we will do in TW ----- div class flex
+w-0;
+w-5;
+
+NOTE-[every time we work on any project we will have to initalise the tailwind in the terminal that will generate the node pacakage and then we have to give a comnd to run it in the live server(npm run start) and the open with the url recievedLU6I709-[
+"p]:?0.
+1235863
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+.boc{
+    background-color: rgba(111, 83, 83, 0.764);
+}
